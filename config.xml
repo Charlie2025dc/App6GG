@@ -2,7 +2,7 @@
   
   <widget xmls ="http://www.w3.org/ns/widgets"
     xmlns:gap ="http://phonegap.com/ns/1.0"
-	id ="com.phonegap.example2"
+	id ="com.phonegap.example6"
 	version ="1.0.0">
 	
    <name> App6 Batalla de Puebla </name>
