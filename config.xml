@@ -5,10 +5,10 @@
 	id ="com.phonegap.example5"
 	version ="1.0.0">
 	
-   <name> App5 Advertencias </name>
+   <name> App6 Batalla del 5 de mayo </name>
    
     <description>
-	 Aplicación que muestra los 2 tipos de advertencia
+	 Aplicación que muestra toda la información de la batalla de Puebla
 	</description>
 	
 	<author href="https://build.phonegap.com" email="caralbap2000@gmail.com">
